@@ -8,7 +8,7 @@ I’m an investor and operator interested in how technology becomes durable busi
 Most of my professional work has lived inside institutions and investment teams, so this GitHub is where I build and share in public.
 
 > **Now:** Senior Associate at Duke Capital Partners · MBA candidate at Duke University’s Fuqua School of Business  
-> **Previously:** Barclays quantitative portfolio strategy · Elements Asset Management · ICICI Bank digital banking
+> **Previously:** Morgan Stanley investment banking· quantitative portfolio strategy · Elements Asset Management · ICICI Bank digital banking
 
 ## Things I’ve built
 
