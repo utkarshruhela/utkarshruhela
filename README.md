@@ -1,5 +1,4 @@
-<a href="https://www.utkarshruhela.com/ai-infrastructure">
-  <img src="https://www.utkarshruhela.com/ai-infrastructure/assets/shoreline-painted.webp" alt="Explore Abundance — from sand to intelligence" width="100%" />
+
 </a>
 
 # Hey, I'm Utkarsh 👋
